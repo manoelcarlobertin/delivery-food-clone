@@ -58,3 +58,4 @@ end
 gem "tailwindcss-rails"
 gem "stimulus-rails"
 gem "hotwire-rails"
+gem "faker"
